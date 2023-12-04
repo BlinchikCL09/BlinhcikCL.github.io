@@ -10,3 +10,6 @@ Here you can find useful programs for your phone or PC.
 
 
 ![Unistal Tool](https://github.com/BlinchikCL09/BlinhcikCL.github.io/blob/main/Uninstall%20Tool.exe)
+
+
+<p align="left">Текст выровнен по левому краю</p>
