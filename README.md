@@ -1,4 +1,4 @@
-<p align="center"><font color="yellow">Welcome to BlinchikCL</font></p>
+<p align="center"><b><font color="yellow">Добро пожаловать в BlinchikCL</font></b></p>
 
 
 
