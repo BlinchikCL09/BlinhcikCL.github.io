@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to BlinchikCL
+Welcome to BlinchikCL
 
 
 
